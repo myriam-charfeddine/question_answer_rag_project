@@ -6,7 +6,7 @@ It maintains an ongoing chat history to provide context for each interaction, en
 
 RAG-based Q&A: Uses a retrieval model to fetch relevant documents and a generation model to produce meaningful answers based on the content of the documents.
 
-Multiple File Support: Capable of handling and retrieving information from multiple files, making it versatile for different datasets.
+Multiple File Support: Capable of handling and retrieving information from multiple files.
 
 Chat History: Retains chat history to provide contextual answers based on prior interactions, improving the conversational flow.
 
