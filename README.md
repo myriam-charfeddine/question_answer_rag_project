@@ -1,5 +1,14 @@
 # RAG Project
-This project is 
+This project is an implementation of a Retrieval-Augmented Generation (RAG) system designed to handle question and answer tasks across multiple documents.  
+It maintains an ongoing chat history to provide context for each interaction, enhancing the relevance of responses based on previous conversations.
+
+## Features:
+
+RAG-based Q&A: Uses a retrieval model to fetch relevant documents and a generation model to produce meaningful answers based on the content of the documents.
+
+Multiple File Support: Capable of handling and retrieving information from multiple files, making it versatile for different datasets.
+
+Chat History: Retains chat history to provide contextual answers based on prior interactions, improving the conversational flow.
 
 ## Requirements
 - Python 3.11.5 or later
